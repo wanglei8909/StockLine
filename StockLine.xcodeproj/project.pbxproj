@@ -15,6 +15,33 @@
 		9B95CCE91F1F3C1D008DEBE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B95CCE71F1F3C1D008DEBE9 /* LaunchScreen.storyboard */; };
 		9B95CCF41F1F3C1D008DEBE9 /* StockLineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CCF31F1F3C1D008DEBE9 /* StockLineTests.m */; };
 		9B95CCFF1F1F3C1D008DEBE9 /* StockLineUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CCFE1F1F3C1D008DEBE9 /* StockLineUITests.m */; };
+		9B95CD181F1F3C63008DEBE9 /* BOLL.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD0D1F1F3C63008DEBE9 /* BOLL.m */; };
+		9B95CD191F1F3C63008DEBE9 /* HKLineRightView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD0F1F1F3C63008DEBE9 /* HKLineRightView.m */; };
+		9B95CD1B1F1F3C63008DEBE9 /* HTimeRightAdapterModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD131F1F3C63008DEBE9 /* HTimeRightAdapterModel.m */; };
+		9B95CD1C1F1F3C63008DEBE9 /* HTimeRightCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD151F1F3C63008DEBE9 /* HTimeRightCell.m */; };
+		9B95CD1D1F1F3C63008DEBE9 /* HTimeRightSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD171F1F3C63008DEBE9 /* HTimeRightSegmentedControl.m */; };
+		9B95CD441F1F3C78008DEBE9 /* KDJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD1F1F1F3C78008DEBE9 /* KDJ.m */; };
+		9B95CD451F1F3C78008DEBE9 /* KLineUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD211F1F3C78008DEBE9 /* KLineUtil.m */; };
+		9B95CD461F1F3C78008DEBE9 /* MACD.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD231F1F3C78008DEBE9 /* MACD.m */; };
+		9B95CD471F1F3C78008DEBE9 /* OBV.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD251F1F3C78008DEBE9 /* OBV.m */; };
+		9B95CD481F1F3C78008DEBE9 /* RSI.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD271F1F3C78008DEBE9 /* RSI.m */; };
+		9B95CD4A1F1F3C78008DEBE9 /* TupleValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD2B1F1F3C78008DEBE9 /* TupleValue.m */; };
+		9B95CD4B1F1F3C78008DEBE9 /* WLHighLightedLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD2D1F1F3C78008DEBE9 /* WLHighLightedLayer.m */; };
+		9B95CD4C1F1F3C78008DEBE9 /* WLHorizontalKlineController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD2F1F1F3C78008DEBE9 /* WLHorizontalKlineController.m */; };
+		9B95CD4D1F1F3C78008DEBE9 /* WLKLineBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD311F1F3C78008DEBE9 /* WLKLineBase.m */; };
+		9B95CD4E1F1F3C78008DEBE9 /* WLKLineHighLightedLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD331F1F3C78008DEBE9 /* WLKLineHighLightedLayer.m */; };
+		9B95CD4F1F1F3C78008DEBE9 /* WLKLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD351F1F3C78008DEBE9 /* WLKLineView.m */; };
+		9B95CD501F1F3C78008DEBE9 /* WLLineEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD371F1F3C78008DEBE9 /* WLLineEntity.m */; };
+		9B95CD511F1F3C78008DEBE9 /* WLLineViewBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD391F1F3C78008DEBE9 /* WLLineViewBase.m */; };
+		9B95CD521F1F3C78008DEBE9 /* WLMinuteSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD3B1F1F3C78008DEBE9 /* WLMinuteSelectionView.m */; };
+		9B95CD531F1F3C78008DEBE9 /* WLShowHightLightView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD3D1F1F3C78008DEBE9 /* WLShowHightLightView.m */; };
+		9B95CD541F1F3C78008DEBE9 /* WLTabbarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD3F1F1F3C78008DEBE9 /* WLTabbarView.m */; };
+		9B95CD551F1F3C78008DEBE9 /* WLTimeLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD411F1F3C78008DEBE9 /* WLTimeLineView.m */; };
+		9B95CD561F1F3C78008DEBE9 /* WR.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD431F1F3C78008DEBE9 /* WR.m */; };
+		9B95CD5A1F1F3D2C008DEBE9 /* YYKit in Resources */ = {isa = PBXBuildFile; fileRef = 9B95CD591F1F3D2C008DEBE9 /* YYKit */; };
+		9B95CD5D1F1F3D78008DEBE9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B95CD5C1F1F3D78008DEBE9 /* CoreGraphics.framework */; };
+		9B95CD601F1F40A8008DEBE9 /* UIColor+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B95CD5F1F1F40A8008DEBE9 /* UIColor+YYAdd.m */; };
+		9B95CD621F1F4A02008DEBE9 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B95CD611F1F4A02008DEBE9 /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +78,57 @@
 		9B95CCFA1F1F3C1D008DEBE9 /* StockLineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StockLineUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B95CCFE1F1F3C1D008DEBE9 /* StockLineUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StockLineUITests.m; sourceTree = "<group>"; };
 		9B95CD001F1F3C1D008DEBE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B95CD0C1F1F3C63008DEBE9 /* BOLL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BOLL.h; sourceTree = "<group>"; };
+		9B95CD0D1F1F3C63008DEBE9 /* BOLL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BOLL.m; sourceTree = "<group>"; };
+		9B95CD0E1F1F3C63008DEBE9 /* HKLineRightView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HKLineRightView.h; sourceTree = "<group>"; };
+		9B95CD0F1F1F3C63008DEBE9 /* HKLineRightView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HKLineRightView.m; sourceTree = "<group>"; };
+		9B95CD121F1F3C63008DEBE9 /* HTimeRightAdapterModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTimeRightAdapterModel.h; sourceTree = "<group>"; };
+		9B95CD131F1F3C63008DEBE9 /* HTimeRightAdapterModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTimeRightAdapterModel.m; sourceTree = "<group>"; };
+		9B95CD141F1F3C63008DEBE9 /* HTimeRightCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTimeRightCell.h; sourceTree = "<group>"; };
+		9B95CD151F1F3C63008DEBE9 /* HTimeRightCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTimeRightCell.m; sourceTree = "<group>"; };
+		9B95CD161F1F3C63008DEBE9 /* HTimeRightSegmentedControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTimeRightSegmentedControl.h; sourceTree = "<group>"; };
+		9B95CD171F1F3C63008DEBE9 /* HTimeRightSegmentedControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTimeRightSegmentedControl.m; sourceTree = "<group>"; };
+		9B95CD1E1F1F3C78008DEBE9 /* KDJ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KDJ.h; sourceTree = "<group>"; };
+		9B95CD1F1F1F3C78008DEBE9 /* KDJ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KDJ.m; sourceTree = "<group>"; };
+		9B95CD201F1F3C78008DEBE9 /* KLineUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KLineUtil.h; sourceTree = "<group>"; };
+		9B95CD211F1F3C78008DEBE9 /* KLineUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KLineUtil.m; sourceTree = "<group>"; };
+		9B95CD221F1F3C78008DEBE9 /* MACD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MACD.h; sourceTree = "<group>"; };
+		9B95CD231F1F3C78008DEBE9 /* MACD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MACD.m; sourceTree = "<group>"; };
+		9B95CD241F1F3C78008DEBE9 /* OBV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OBV.h; sourceTree = "<group>"; };
+		9B95CD251F1F3C78008DEBE9 /* OBV.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OBV.m; sourceTree = "<group>"; };
+		9B95CD261F1F3C78008DEBE9 /* RSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSI.h; sourceTree = "<group>"; };
+		9B95CD271F1F3C78008DEBE9 /* RSI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSI.m; sourceTree = "<group>"; };
+		9B95CD2A1F1F3C78008DEBE9 /* TupleValue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TupleValue.h; sourceTree = "<group>"; };
+		9B95CD2B1F1F3C78008DEBE9 /* TupleValue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TupleValue.m; sourceTree = "<group>"; };
+		9B95CD2C1F1F3C78008DEBE9 /* WLHighLightedLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLHighLightedLayer.h; sourceTree = "<group>"; };
+		9B95CD2D1F1F3C78008DEBE9 /* WLHighLightedLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLHighLightedLayer.m; sourceTree = "<group>"; };
+		9B95CD2E1F1F3C78008DEBE9 /* WLHorizontalKlineController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLHorizontalKlineController.h; sourceTree = "<group>"; };
+		9B95CD2F1F1F3C78008DEBE9 /* WLHorizontalKlineController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLHorizontalKlineController.m; sourceTree = "<group>"; };
+		9B95CD301F1F3C78008DEBE9 /* WLKLineBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLKLineBase.h; sourceTree = "<group>"; };
+		9B95CD311F1F3C78008DEBE9 /* WLKLineBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLKLineBase.m; sourceTree = "<group>"; };
+		9B95CD321F1F3C78008DEBE9 /* WLKLineHighLightedLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLKLineHighLightedLayer.h; sourceTree = "<group>"; };
+		9B95CD331F1F3C78008DEBE9 /* WLKLineHighLightedLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLKLineHighLightedLayer.m; sourceTree = "<group>"; };
+		9B95CD341F1F3C78008DEBE9 /* WLKLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLKLineView.h; sourceTree = "<group>"; };
+		9B95CD351F1F3C78008DEBE9 /* WLKLineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLKLineView.m; sourceTree = "<group>"; };
+		9B95CD361F1F3C78008DEBE9 /* WLLineEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLLineEntity.h; sourceTree = "<group>"; };
+		9B95CD371F1F3C78008DEBE9 /* WLLineEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLLineEntity.m; sourceTree = "<group>"; };
+		9B95CD381F1F3C78008DEBE9 /* WLLineViewBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLLineViewBase.h; sourceTree = "<group>"; };
+		9B95CD391F1F3C78008DEBE9 /* WLLineViewBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLLineViewBase.m; sourceTree = "<group>"; };
+		9B95CD3A1F1F3C78008DEBE9 /* WLMinuteSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLMinuteSelectionView.h; sourceTree = "<group>"; };
+		9B95CD3B1F1F3C78008DEBE9 /* WLMinuteSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLMinuteSelectionView.m; sourceTree = "<group>"; };
+		9B95CD3C1F1F3C78008DEBE9 /* WLShowHightLightView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLShowHightLightView.h; sourceTree = "<group>"; };
+		9B95CD3D1F1F3C78008DEBE9 /* WLShowHightLightView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLShowHightLightView.m; sourceTree = "<group>"; };
+		9B95CD3E1F1F3C78008DEBE9 /* WLTabbarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLTabbarView.h; sourceTree = "<group>"; };
+		9B95CD3F1F1F3C78008DEBE9 /* WLTabbarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLTabbarView.m; sourceTree = "<group>"; };
+		9B95CD401F1F3C78008DEBE9 /* WLTimeLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLTimeLineView.h; sourceTree = "<group>"; };
+		9B95CD411F1F3C78008DEBE9 /* WLTimeLineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLTimeLineView.m; sourceTree = "<group>"; };
+		9B95CD421F1F3C78008DEBE9 /* WR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WR.h; sourceTree = "<group>"; };
+		9B95CD431F1F3C78008DEBE9 /* WR.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WR.m; sourceTree = "<group>"; };
+		9B95CD591F1F3D2C008DEBE9 /* YYKit */ = {isa = PBXFileReference; lastKnownFileType = folder; path = YYKit; sourceTree = "<group>"; };
+		9B95CD5C1F1F3D78008DEBE9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9B95CD5E1F1F40A8008DEBE9 /* UIColor+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+YYAdd.h"; sourceTree = "<group>"; };
+		9B95CD5F1F1F40A8008DEBE9 /* UIColor+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+YYAdd.m"; sourceTree = "<group>"; };
+		9B95CD611F1F4A02008DEBE9 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +136,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B95CD5D1F1F3D78008DEBE9 /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +164,7 @@
 				9B95CCF21F1F3C1D008DEBE9 /* StockLineTests */,
 				9B95CCFD1F1F3C1D008DEBE9 /* StockLineUITests */,
 				9B95CCD71F1F3C1D008DEBE9 /* Products */,
+				9B95CD5B1F1F3D78008DEBE9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +185,56 @@
 				9B95CCDD1F1F3C1D008DEBE9 /* AppDelegate.m */,
 				9B95CCDF1F1F3C1D008DEBE9 /* ViewController.h */,
 				9B95CCE01F1F3C1D008DEBE9 /* ViewController.m */,
+				9B95CD1E1F1F3C78008DEBE9 /* KDJ.h */,
+				9B95CD1F1F1F3C78008DEBE9 /* KDJ.m */,
+				9B95CD201F1F3C78008DEBE9 /* KLineUtil.h */,
+				9B95CD211F1F3C78008DEBE9 /* KLineUtil.m */,
+				9B95CD221F1F3C78008DEBE9 /* MACD.h */,
+				9B95CD231F1F3C78008DEBE9 /* MACD.m */,
+				9B95CD241F1F3C78008DEBE9 /* OBV.h */,
+				9B95CD251F1F3C78008DEBE9 /* OBV.m */,
+				9B95CD261F1F3C78008DEBE9 /* RSI.h */,
+				9B95CD271F1F3C78008DEBE9 /* RSI.m */,
+				9B95CD2A1F1F3C78008DEBE9 /* TupleValue.h */,
+				9B95CD2B1F1F3C78008DEBE9 /* TupleValue.m */,
+				9B95CD2C1F1F3C78008DEBE9 /* WLHighLightedLayer.h */,
+				9B95CD2D1F1F3C78008DEBE9 /* WLHighLightedLayer.m */,
+				9B95CD2E1F1F3C78008DEBE9 /* WLHorizontalKlineController.h */,
+				9B95CD2F1F1F3C78008DEBE9 /* WLHorizontalKlineController.m */,
+				9B95CD301F1F3C78008DEBE9 /* WLKLineBase.h */,
+				9B95CD311F1F3C78008DEBE9 /* WLKLineBase.m */,
+				9B95CD321F1F3C78008DEBE9 /* WLKLineHighLightedLayer.h */,
+				9B95CD331F1F3C78008DEBE9 /* WLKLineHighLightedLayer.m */,
+				9B95CD341F1F3C78008DEBE9 /* WLKLineView.h */,
+				9B95CD351F1F3C78008DEBE9 /* WLKLineView.m */,
+				9B95CD361F1F3C78008DEBE9 /* WLLineEntity.h */,
+				9B95CD371F1F3C78008DEBE9 /* WLLineEntity.m */,
+				9B95CD381F1F3C78008DEBE9 /* WLLineViewBase.h */,
+				9B95CD391F1F3C78008DEBE9 /* WLLineViewBase.m */,
+				9B95CD3A1F1F3C78008DEBE9 /* WLMinuteSelectionView.h */,
+				9B95CD3B1F1F3C78008DEBE9 /* WLMinuteSelectionView.m */,
+				9B95CD3C1F1F3C78008DEBE9 /* WLShowHightLightView.h */,
+				9B95CD3D1F1F3C78008DEBE9 /* WLShowHightLightView.m */,
+				9B95CD3E1F1F3C78008DEBE9 /* WLTabbarView.h */,
+				9B95CD3F1F1F3C78008DEBE9 /* WLTabbarView.m */,
+				9B95CD401F1F3C78008DEBE9 /* WLTimeLineView.h */,
+				9B95CD411F1F3C78008DEBE9 /* WLTimeLineView.m */,
+				9B95CD421F1F3C78008DEBE9 /* WR.h */,
+				9B95CD431F1F3C78008DEBE9 /* WR.m */,
+				9B95CD0C1F1F3C63008DEBE9 /* BOLL.h */,
+				9B95CD0D1F1F3C63008DEBE9 /* BOLL.m */,
+				9B95CD0E1F1F3C63008DEBE9 /* HKLineRightView.h */,
+				9B95CD0F1F1F3C63008DEBE9 /* HKLineRightView.m */,
+				9B95CD121F1F3C63008DEBE9 /* HTimeRightAdapterModel.h */,
+				9B95CD131F1F3C63008DEBE9 /* HTimeRightAdapterModel.m */,
+				9B95CD141F1F3C63008DEBE9 /* HTimeRightCell.h */,
+				9B95CD151F1F3C63008DEBE9 /* HTimeRightCell.m */,
+				9B95CD161F1F3C63008DEBE9 /* HTimeRightSegmentedControl.h */,
+				9B95CD171F1F3C63008DEBE9 /* HTimeRightSegmentedControl.m */,
+				9B95CD5E1F1F40A8008DEBE9 /* UIColor+YYAdd.h */,
+				9B95CD5F1F1F40A8008DEBE9 /* UIColor+YYAdd.m */,
+				9B95CD611F1F4A02008DEBE9 /* data.plist */,
+				9B95CD591F1F3D2C008DEBE9 /* YYKit */,
 				9B95CCE21F1F3C1D008DEBE9 /* Main.storyboard */,
 				9B95CCE51F1F3C1D008DEBE9 /* Assets.xcassets */,
 				9B95CCE71F1F3C1D008DEBE9 /* LaunchScreen.storyboard */,
@@ -138,6 +268,14 @@
 				9B95CD001F1F3C1D008DEBE9 /* Info.plist */,
 			);
 			path = StockLineUITests;
+			sourceTree = "<group>";
+		};
+		9B95CD5B1F1F3D78008DEBE9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B95CD5C1F1F3D78008DEBE9 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +387,8 @@
 				9B95CCE91F1F3C1D008DEBE9 /* LaunchScreen.storyboard in Resources */,
 				9B95CCE61F1F3C1D008DEBE9 /* Assets.xcassets in Resources */,
 				9B95CCE41F1F3C1D008DEBE9 /* Main.storyboard in Resources */,
+				9B95CD621F1F4A02008DEBE9 /* data.plist in Resources */,
+				9B95CD5A1F1F3D2C008DEBE9 /* YYKit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +413,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B95CD1C1F1F3C63008DEBE9 /* HTimeRightCell.m in Sources */,
 				9B95CCE11F1F3C1D008DEBE9 /* ViewController.m in Sources */,
+				9B95CD461F1F3C78008DEBE9 /* MACD.m in Sources */,
+				9B95CD191F1F3C63008DEBE9 /* HKLineRightView.m in Sources */,
+				9B95CD441F1F3C78008DEBE9 /* KDJ.m in Sources */,
+				9B95CD501F1F3C78008DEBE9 /* WLLineEntity.m in Sources */,
+				9B95CD481F1F3C78008DEBE9 /* RSI.m in Sources */,
+				9B95CD561F1F3C78008DEBE9 /* WR.m in Sources */,
 				9B95CCDE1F1F3C1D008DEBE9 /* AppDelegate.m in Sources */,
+				9B95CD531F1F3C78008DEBE9 /* WLShowHightLightView.m in Sources */,
+				9B95CD1B1F1F3C63008DEBE9 /* HTimeRightAdapterModel.m in Sources */,
+				9B95CD4D1F1F3C78008DEBE9 /* WLKLineBase.m in Sources */,
+				9B95CD451F1F3C78008DEBE9 /* KLineUtil.m in Sources */,
+				9B95CD551F1F3C78008DEBE9 /* WLTimeLineView.m in Sources */,
+				9B95CD4C1F1F3C78008DEBE9 /* WLHorizontalKlineController.m in Sources */,
+				9B95CD601F1F40A8008DEBE9 /* UIColor+YYAdd.m in Sources */,
+				9B95CD471F1F3C78008DEBE9 /* OBV.m in Sources */,
+				9B95CD1D1F1F3C63008DEBE9 /* HTimeRightSegmentedControl.m in Sources */,
+				9B95CD4F1F1F3C78008DEBE9 /* WLKLineView.m in Sources */,
+				9B95CD521F1F3C78008DEBE9 /* WLMinuteSelectionView.m in Sources */,
+				9B95CD4B1F1F3C78008DEBE9 /* WLHighLightedLayer.m in Sources */,
+				9B95CD181F1F3C63008DEBE9 /* BOLL.m in Sources */,
+				9B95CD4E1F1F3C78008DEBE9 /* WLKLineHighLightedLayer.m in Sources */,
+				9B95CD541F1F3C78008DEBE9 /* WLTabbarView.m in Sources */,
 				9B95CCDB1F1F3C1D008DEBE9 /* main.m in Sources */,
+				9B95CD4A1F1F3C78008DEBE9 /* TupleValue.m in Sources */,
+				9B95CD511F1F3C78008DEBE9 /* WLLineViewBase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
